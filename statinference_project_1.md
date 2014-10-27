@@ -1,8 +1,8 @@
 ---
 title: "Statistical Inference Coursera Project"
-author: "Steve"
+author: "Steve Anderson"
 date: "Thursday, October 23, 2014"
-output: beamer_presentation
+output: pdf_document
 ---
 
 ## R Markdown
